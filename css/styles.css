@@ -9,11 +9,12 @@ line-height: 24px;
 
 .bg {
 	position: absolute;
-	width: 100%;
-	height: 600px;
-	left: 0px;
-	top: 80px;
-	background: #2F303A;
+width: 1600px;
+height: 600px;
+left: -4px;
+top: 80px;
+
+background: #2F303A;
 }
 
 .pbg {
@@ -22,6 +23,7 @@ line-height: 24px;
     height: 252px;
     left: 0px;
     top: 2158px;
+    
     background: #2F303A;
 }
 
