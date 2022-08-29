@@ -7,6 +7,24 @@ font-size: 14px;
 line-height: 24px;
 }
 
+.bg {
+	position: absolute;
+	width: 100%;
+	height: 600px;
+	left: 0px;
+	top: 80px;
+	background: #2F303A;
+}
+
+.pbg {
+    position: absolute;
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 2158px;
+    background: #2F303A;
+}
+
 h1 {
     color: #FFFFFF
     font-family: 'Roboto';
