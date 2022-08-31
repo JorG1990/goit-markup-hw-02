@@ -1,5 +1,4 @@
 nav {
-    position: absolute;
     width: 1600px;
     height: 80px;
     left: 0px;
@@ -7,6 +6,15 @@ nav {
 
     background: #FFFFFF;
 
+}
+
+.study {
+    width: 49px;
+height: 16px;
+left: 453px;
+top: 32px;
+
+color: #2196F3;
 }
 
 p {
@@ -19,7 +27,6 @@ p {
 }
 
 article {
-	position: absolute;
     width: 1600px;
     height: 600px;
     left: -4px;
@@ -28,11 +35,7 @@ article {
     background: #2F303A;
     }
 
-section2 {
-    display: flex;
 
-    background: #E5E5E5;
-}
 
 .position {
     display: flex;
@@ -41,7 +44,6 @@ section2 {
     align-items: center;
     padding: 10px 32px;
     gap: 10px;
-    position: absolute;
     width: 261px;
     height: 50px;
     left: 666px;
@@ -104,7 +106,6 @@ h4 {
     }
     
 footer {
-    position: absolute;
     width: 1600px;
     height: 252px;
     left: 0px;
