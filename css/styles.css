@@ -113,3 +113,21 @@ footer {
         
     background: #2F303A;
     }
+
+    .other {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        color: #757575;
+    }
+
+    .secund-peges {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 36px;
+        color: #212121;
+    }
